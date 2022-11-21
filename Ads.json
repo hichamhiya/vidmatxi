@@ -1,6 +1,6 @@
 {
   "AdManager": {
-    "PrioritInterstitialSplash":"appodeal",
+    "PrioritInterstitialSplash":"",
     "PriorityInterstitial":"random",
     "PriorityBanner":"random",
     "PriorityNative":"random",
