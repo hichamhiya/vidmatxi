@@ -1,0 +1,16 @@
+{
+  "AdManager": {
+    "PrioritInterstitialSplash":"appodeal",
+    "PriorityInterstitial":"random",
+    "PriorityBanner":"random",
+    "PriorityNative":"random",
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+    "UnityGameID":"xxxxxxxxxx",
+    "UnityBanner":"Banner_Android",
+    "UnityInterstitial":"Interstitial_Android",
+    "AppodealAppKey":"xxxxxxxxxxxx"
+  }
+
+}
