@@ -1,6 +1,6 @@
 {
   "AdManager": {
-    "PrioritInterstitialSplash":"Unity",
+    "PrioritInterstitialSplash":"admob",
     "PriorityInterstitial":"Unity",
     "PriorityBanner":"Unity",
     "PriorityNative":"Unity",
