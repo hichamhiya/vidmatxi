@@ -1,7 +1,7 @@
 {
   "AdManager": {
-    "PrioritInterstitialSplash":"appodeal",
-    "PriorityInterstitial":"appodeal",
+    "PrioritInterstitialSplash":"unity",
+    "PriorityInterstitial":"unity",
     "PriorityBanner":"appodeal",
     "PriorityNative":"appodeal",
     "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
