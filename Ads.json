@@ -1,16 +1,16 @@
 {
   "AdManager": {
-    "PrioritInterstitialSplash":"unity",
-    "PriorityInterstitial":"unity",
-    "PriorityBanner":"unity",
-    "PriorityNative":"unity",
+    "PrioritInterstitialSplash":"appodeal",
+    "PriorityInterstitial":"appodeal",
+    "PriorityBanner":"appodeal",
+    "PriorityNative":"appodeal",
     "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
     "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
     "UnityGameID":"4109005",
     "UnityBanner":"Banner_Android",
     "UnityInterstitial":"Interstitial_Android",
-    "AppodealAppKey":"xxxxxxxxxxxx"
+    "AppodealAppKey":"2d5fa7ad97ba07a108fe8b46dacd5de6fb99f0c32af439bc"
   }
 
 }
